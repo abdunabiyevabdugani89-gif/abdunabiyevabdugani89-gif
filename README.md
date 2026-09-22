@@ -1,17 +1,27 @@
-# 👋 Salom, men [Abdug'ani Abdunabiyev]!
+# 👋 Salom, men Abdug'ani Abdunabiyev!
+
+<p align="center">
+  <img src="https://komarev.com" alt="Abdugani" />
+</p>
 
 ### 🧑‍💻 Men haqimda:
 - 🚀 Hozirda **C++ va Python Developer** sifatida loyihalar ustida ishlayapman.
-- 🧠 Men asosan **Algoritmlar, Ma'lumotlar strukturasi (C++)** va **Sun'iy intellekt / Data Science (Python)** yo'nalishlariga qiziqaman.
-- 📚 Hozirda ushbu tillarning chuqur arxitekturasini o'rganyapman.
+- 🧠 Asosan **Algoritmlar, Ma'lumotlar strukturasi (C++)** va **Sun'iy intellekt / Data Science (Python)** yo'nalishlariga qiziqaman.
+- 📚 Hozirda ushbu tillarning chuqur arxitekturasini va eng so'nggi texnologiyalarini o'rganyapman.
 
 ### 🛠️ Texnologik bilimlarim (Skills):
-- **Tillar:** C++, Python, SQL
-- **Asboblar va Freymvorklar:** Git, CMake, PyTorch / Django, Docker
+- **Dasturlash tillari:** `C++`, `Python`, `SQL`
+- **Asboblar va Freymvorklar:** `Git`, `CMake`, `PyTorch`, `Django`, `Docker`
 
 ### 📊 GitHub Statistikam:
-![Mening GitHub statistikalarim](https://vercel.app[SizningGitHubNomingiz]&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://vercel.app" alt="Abdugani GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="Abdugani GitHub Streak" />
+</p>
 
 ### 📫 Men bilan bog'lanish:
-- **Telegram:** [@foydalanuvchi_nomi](https://t.me/Abdugani_15)
-- **LinkedIn:** [Profil havolasi](https://linkedin.com)
+- ✈️ **Telegram:** [@Abdugani](https://t.me/Abdugani)
+- 💼 **LinkedIn:** [Mening LinkedIn profilim](https://linkedin.com) <!-- Bu yerga o'z linkigizni qo'ying -->
