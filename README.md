@@ -1,7 +1,7 @@
 # 👋 Salom, men Abdug'ani Abdunabiyev!
 
 <p align="center">
-  <img src="https://www.campusexplorer.com/careers/computer-programmers/" />
+  <img src="https://www.freelancer.com/articles/programming" />
 </p>
 
 ### 🧑‍💻 Men haqimda:
