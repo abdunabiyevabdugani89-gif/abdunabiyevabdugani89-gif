@@ -1,7 +1,7 @@
 # 👋 Salom, men Abdug'ani Abdunabiyev!
 
 <p align="center">
-  <img src="https://www.freelancer.com/articles/programming" />
+  <img src="https://twitch.tv" width="100%" alt="Developer Animation" />
 </p>
 
 ### 🧑‍💻 Men haqimda:
