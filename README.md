@@ -13,5 +13,5 @@
 ![Mening GitHub statistikalarim](https://vercel.app[SizningGitHubNomingiz]&show_icons=true&theme=dark)
 
 ### 📫 Men bilan bog'lanish:
-- **Telegram:** [@foydalanuvchi_nomi](https://t.me)
+- **Telegram:** [@foydalanuvchi_nomi](https://t.me/Abdugani_15)
 - **LinkedIn:** [Profil havolasi](https://linkedin.com)
